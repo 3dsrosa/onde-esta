@@ -1,0 +1,36 @@
+body{
+background-color: #92b9eb;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+}
+
+.cabecalho{
+    background-color: #ffffff;
+    color: #5669be;
+    font-size: 60px;
+    margin-top: 0;
+    padding: 1px;
+    text-align: center;
+
+}
+.principal{
+    background-color: #5669be;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+    }
+.manoelgomes{
+    width: 100px;
+    border-radius: 10%;
+}
+.rodape{
+    background-color: aliceblue;
+    color: #92b9eb;
+    font-size: 70px;
+    margin-top: 0;
+    padding: 1px;
+    text-align: center;
+}
